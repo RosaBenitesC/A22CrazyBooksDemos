@@ -1,4 +1,5 @@
-﻿using CrazyBooks_Web.Models;
+﻿using CrazyBooks_Model.Models;
+using CrazyBooks_Model.ViewModel;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using System;

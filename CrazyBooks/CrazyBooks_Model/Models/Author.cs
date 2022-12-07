@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace CrazyBooks_Web.Models
+namespace CrazyBooks_Model.Models
 {
     public class Author
     {

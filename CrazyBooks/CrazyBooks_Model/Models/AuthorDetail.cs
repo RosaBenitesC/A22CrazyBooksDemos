@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace CrazyBooks_Web.Models
+namespace CrazyBooks_Model.Models
 {
     public class AuthorDetail
     {

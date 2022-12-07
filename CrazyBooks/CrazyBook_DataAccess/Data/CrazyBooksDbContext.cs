@@ -1,7 +1,7 @@
-﻿using CrazyBooks_Web.Models;
+﻿using CrazyBooks_Model.Models;
 using Microsoft.EntityFrameworkCore;
 
-namespace CrazyBooks_Web.Models.Data
+namespace CrazyBooks_Model.Models.Data
 {
     public class CrazyBooksDbContext:DbContext
     {

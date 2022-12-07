@@ -5,7 +5,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace CrazyBooks_Web.Models
+namespace CrazyBooks_Model.Models
 {
   public class Book
   {

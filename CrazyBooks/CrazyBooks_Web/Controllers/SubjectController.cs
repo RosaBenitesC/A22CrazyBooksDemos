@@ -1,4 +1,4 @@
-﻿using CrazyBooks_Web.Models;
+﻿using CrazyBooks_Model.Models;
 using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
